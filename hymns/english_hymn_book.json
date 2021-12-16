@@ -1,0 +1,831 @@
+[
+    {
+        "id": 1,
+        "no": 1,
+        "category": "introit",
+        "title": "",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "God is a Spirit, those who worship Him In Spirit and truth must bow down their knees Thou who dwellest amidst the Cherubims Draw nigh to us as we draw nigh to Thee."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "no": 2,
+        "category": "introit",
+        "title": "",
+        "scripture": "",
+        "hasChorus": true,
+        "chorus": "I will pray to the Lord the Royal Almighty We beseech Thee Father come save us.",
+        "verses": [
+            {
+                "no": 1,
+                "content": "I will pray to the Lord the Royal Almighty) We beseech Thee father come save us) 2ce One and only glorious God Be with us in Thy sanctuary We Thy children call out upon Thee Most Holy Father"
+            },
+            {
+                "no": 2,
+                "content": "I will pray to my Lord the Royal Almighty) Me; forsake never, my Lord I plead  ) 2ce Descend! Benevolent Father Send your help in Thy sanctuary We Thy children call out upon Thee Most Holy Father."
+            },
+            {
+                "no": 3,
+                "content": "I will pray to my Lord the Royal Almighty) Nay will I wither nor be at loss  )  2ce Thou immortal, eternal Meet with us in Thy sanctuary We Thy children call out upon Thee Most Holy Father."
+            },
+            {
+                "no": 4,
+                "content": "I will pray to my Lord the Royal Almighty) Fill our hearts Father with joy we plead  ) 2ce One and only gracious God. Bless us Lord in your santuary We Thy children call out upon Thee Most Holy Father."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "no": 3,
+        "category": "introit",
+        "title": "Tune:Baba, a de loni o, wa sure fun waka to lo",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Father we come before Thee) Bless us ere we from hence depart) 2ce Our plea present we to Thee oh  Lord, Almighty Father, we come before Thee Bless us ere we from hence depart The Hannah’s, barren and weak Bless their womb’s is all our plea The guardians and parents Bless them with plenty and surplus Unemployed and idle youth Good jobs for them provide Homeless and destitutes Peaceful homes provide, Lord Almighty God, all our plea to Thee Lord We  brought to Thee Father, we come before Thee Bless us ere we from hence depart. Amen."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "no": 4,
+        "category": "introit",
+        "title": "Tune: F’relewolef’Oluwa, Oba aiku",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "We humbly bow down before Thee, Immortal Holy Lord) 2ce Thou we shall worship till eternity We plead Thee, Almighty God Save and protect us all Thou art our trust and Rock of Salvation Today land, all our plead, let us with joy disperse Let us with joy disperse 2ce Today Lord, all our plea, let us with joy disperse. Amen."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "no": 5,
+        "category": "introit",
+        "title": "Tune: Jehovah mi siwa, lojooni Baba",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Jehovah inspire us, we beseech Thee Father We  bow  before Thee, come, come, come, Spirit Divine please descend, and inspire us all today Oh protect, we beseech 2ce From the world, from enemies, scourge of death And the ructions of the heathen ones, protect us We thank Thee, Almighty Jehovah inspire us, we beseech Thee Father We bow down before Thee, come, come, come, Spirit Divine pleas descend, and inspire us today. Amen."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "no": 6,
+        "category": "introit",
+        "title": "",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "mp Come ye yourselves apart, and rest awhile Weary, I know it, of the press and  throng Wipe from your brow the sweat and dust of toil cr And in My quiet strength again be strong."
+            },
+            {
+                "no": 2,
+                "content": "mf Come ye aside from all the world holds dear For converse which the world has never known Alone with Me, and with My Father here With Me, and with My Father not alone."
+            },
+            {
+                "no": 3,
+                "content": "Come, tell Me all that ye have said and done, Your victories and failures, hopes and fears p I know how hardly souls are wooed and won cr My choicest wreaths are always wet with tears"
+            },
+            {
+                "no": 4,
+                "content": "mp Come ye, and rest, the journey is too great And ye will faint beside the way and sink cr The bread of life is here for you to eat And here for you the wine of love to drink."
+            },
+            {
+                "no": 5,
+                "content": "Then, fresh from converse with your Lord, return And work till daylihgt softens into even: The brief hours are not lost in which ye learn More of your Master and His rest in heaven. Amen."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "no": 7,
+        "category": "introit",
+        "title": "Tune:Oluwa Awa de",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Lord we have come to Thee) Our Royal Father) 2ce Fearful in praises, forgive us all Father) Upon whom rest all-our hope? Upon whom do we rely? But is Thee our Holy Lord Fearful in praises, forgive us all Father.   Amen."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "no": 8,
+        "category": "introit",
+        "title": "Tune: Olorun mi sanu fun mi",
+        "scripture": "",
+        "hasChorus": true,
+        "chorus": "Forgive me Lord (2ce) May I do your will to the end.",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Have mercy upon  me my God According to thy loving kindness According to thy tender mercies Blot out all my transgression"
+            },
+            {
+                "no": 2,
+                "content": "Wash me from my iniquities And cleanse me also from my sins With Thy Calvary blood wash me And I shall be whiter than show."
+            },
+            {
+                "no": 3,
+                "content": "Lord create in me a clean heart With holy spirit endow me That I may sing redemption song May my tongues sing praises to thee"
+            },
+            {
+                "no": 4,
+                "content": "Thou desires not sacrifice But a broken and contrite heart Humbly I bow down  before thee By thy Altar my offering take"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "no": 9,
+        "category": "",
+        "title": "Tune: Igbagbo mi nwo O",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Oh God our Father, Lord Please descend in our midst Thyself reveal Worshipping Thee for real Reverencing Thee as due May our service today Ascend to Thee."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "no": 10,
+        "category": "introit",
+        "title": "Tune:Elesewas’odoJesu",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Holy Saviour hark unto us Just as on our knees we bend Open Thy window of blessings Abundantly all to bless Ouickly descend oh Lord, our plea Let Thy blessings on us descend We are waitin, we are watching All our souls, Oh Lord, revive."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "no": 1,
+        "category": "morning-devotion",
+        "title": "C.M.S. 1H.C. 2. L.M. (FE 19)",
+        "scripture": "Awake..and myself will awake early Ps 108:2",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "AWAKE, my soul, and with the sun Thy daily stage of duty runs; Shake off dull sloth, and joyful rise To pay thy morning sacrifice"
+            },
+            {
+                "no": 2,
+                "content": "Thy precious time mis-spent redeem; Each present day thy last esteem; Improve thy talent with due care For the great day thyself prepare."
+            },
+            {
+                "no": 3,
+                "content": "Let all thy converse be sincere, Thy conscience as the noontide clear, Think how all-seeing God thy ways And all thy secret thoughts surveys."
+            },
+            {
+                "no": 4,
+                "content": "By influence of the light Divine, Let thy own light to others shine, Reflect all Heaven’s propitious rays In ardent love and cheerful praise."
+            },
+            {
+                "no": 5,
+                "content": "Wake, and lift up thyself my heart. And with the angels bear thy part, Who all night long unwearied sing High praise to the eternal King"
+            },
+            {
+                "no": 6,
+                "content": "I wake, I wake, ye heavenly choir May your devotion me inspire That I, like you my age may spend, Like you may on my God attend."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "no": 2,
+        "category": "morning-devotion",
+        "title": "t. H.C. 2 L.M (FE 19)",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Awake, Awake, ye heavenly choir May your devotion me inspire That I, like you, my age may spend Like you may I my God attend."
+            },
+            {
+                "no": 2,
+                "content": "Glory to thee, who safe hast kept And hast refreshed me whilst I slept Grant, Lord, when I from death shall wake I may of endless light partake."
+            },
+            {
+                "no": 3,
+                "content": "Lord, I my vows to thee renew Disperse my sins as morning dew Guard my first springs of thought and will And with thyself my spirit fill."
+            },
+            {
+                "no": 4,
+                "content": "Direct, Control, suggest, this day All I designed or do or say That all my powers, with all their might In thy sole glory may unite."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "no": 3,
+        "category": "morning-devotion",
+        "title": "C.M.S. 2t S. 634 CM (FE 20)",
+        "scripture": "“I laid down and slept I awaked for the Lord sustained me.” - Ps. 3:5",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "mf Through all the dangers of the night The Lord doth keep me safe, To see another morning dawn And to bow down the knee."
+            },
+            {
+                "no": 2,
+                "content": "Oh Lord we pray keep us today Beneath Thy mighty wings Only the ones whom thou doth keep Are from all dangers free."
+            },
+            {
+                "no": 3,
+                "content": "Let all our thoughts and all our deeds Show we belong to Thee, So that our light may truly shine And beam to all the world."
+            },
+            {
+                "no": 4,
+                "content": "mp O grant that we ne’er stray from Thee Jesus, Saviour Divine Until our eyes there shall behold Thy face for ever more."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "no": 4,
+        "category": "morning-devotion",
+        "title": "C.M.S 5 H.C 17 L.M (FE 21)",
+        "scripture": "“When will Thou come unto me” - Ps 101:2",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Come to me, Lord, when I first wake, As the faint lights of morning break; Bid purest thoughts within me rise, Like crystal dew-drops to the skies."
+            },
+            {
+                "no": 2,
+                "content": "Come to me in the sultry noon Or earths low communions will soon Of  Thy dear face eclipse the light, And change my fairest day to night."
+            },
+            {
+                "no": 3,
+                "content": "Come to me in the evening shade And if my heart from Thee hath stray’d Oh bring it back, and from afar Smile on me like Thine evening star"
+            },
+            {
+                "no": 4,
+                "content": "Come to me in the midnight hour, When sleep with holds its balmily power Let my lone Spirit find her rest Like John, upon my Saviour’s breast"
+            },
+            {
+                "no": 5,
+                "content": "Come to me through life’s varied way And when its pulses cease to play Then, Saviour bid be come to Thee That where Thou art, Thy child may be."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "no": 5,
+        "category": "morning-devotion",
+        "title": "C.M.S 7. H. C. t.H.C 258 S.M. (FE 22)",
+        "scripture": "“Evening and morning and at noon will I pray.”- Ps. 55: 17",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Come to the morning prayer Come let us kneel and pray Prayer is the Christian Pilgrim’s staff To walk with God all day."
+            },
+            {
+                "no": 2,
+                "content": "At noon beneath the Rock Of Ages rest and pray Sweet is the shadow from the heart, When the sun smiles by day."
+            },
+            {
+                "no": 3,
+                "content": "At eve shut to the door, Round the home-altar pray And finding there the house of God, At heaven’s gate close the day."
+            },
+            {
+                "no": 4,
+                "content": "When midnight seals our eyes, Let each in Spirit say, I sleep, but my heart waketh, Lord, With Thee to pray Watch and pray."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "no": 6,
+        "category": "morning-devotion",
+        "title": "C.M.S 4 H.C 16 L.M (FE 23)",
+        "scripture": "“Walk before Me and be thou perfect” - Gen. 17:1",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "FORTH in Thy name, O Lord, I go My daily labour to pursue: Thee only Thee, resolved to know, In all I think, or speak, or do."
+            },
+            {
+                "no":2,
+                "content":"The task, Thy wisdom hath assign’d Oh let me cheerfully fulfil; In all my works, Thy presence find, And prove Thy good and prefect will."
+            },
+            {
+                "no":3,
+                "content":"Preserve me from my calling’s snare And hide my simple heart above Above the thorns of chocking care The gilded baits of worldly love."
+            },
+            {
+                "no":4,
+                "content":"Thee may I set at my right hand; Whose eyes my inmost substance see: And labour on at Thy command, And offer all my works to Thee."
+            },
+            {
+                "no":5,
+                "content":"Give me to bear Thy easy yoke, And every moment watch and pray; And still to things eternal look, And hasten to Thy glorious day."
+            },
+            {
+                "no":6,
+                "content":"For Thee delightfully employ Whate’er Thy bounteous grace hath given And run my course with even joy, And closely walk with Thee to heaven."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "no": 7,
+        "category": "morning-devotion",
+        "title": "P.B C.M.S 97s 3. (FE 24)",
+        "scripture": "“My voice shall Thou hear in the morning” - Ps. 5:3",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "f Jesus, Sun of righteousness, Brightest beam of love divine With the early morning rays, Do Thou on our darkness shine, And dispel with purest light All our night."
+            },
+            {
+                "no":2,
+                "content":"mp As on drooping herb and flow’r Falls the soft refreshing dew, Let Thy Spirit’s grace and pow’r All our weary souls renew Show’rs of blessing over all Softly fall."
+            },
+            {
+                "no":3,
+                "content":"mf Like the sun’s reviving ray, May Thy love with tender glow All our coldness melt away Warm and cheer us forth to go Gladly serve Thee and obey All the day."
+            },
+            {
+                "no":4,
+                "content":"Oh, our only Hope and Guide Never leave us nor forsake Keep us ever at Thy side Till th’eternal morning break Moving on to Zion’s hill Homeward still."
+            },
+            {
+                "no":5,
+                "content":"Lead us all our days and years In Thy straight and narrow way Lead us through the vale of tears To the land of perfect day cr Where Thy people, fully blest, p Safely rest."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "no": 8,
+        "category": "morning-devotion",
+        "title": "C.M.S 596 t. H.C. 552 L.M. (FE 25) Tune: LM Jiokan mi baorunji",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Arise! Oh Righteous Sun, arise! On Mount Zion shinning gently Cast darkness away from our sight Awaken all our souls to life"
+            },
+            {
+                "no":2,
+                "content":"Thine grace, release on us we plead Like of the dew and of the rain"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "no": 9,
+        "category": "evening-devotion",
+        "title": "C.M.S 17 H.C 25 L.M (FE 26)",
+        "scripture": "“And at even when the sun did set, they brought unto Him all that were diseased” - Mark 1:32",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "At even ere the sun was set; The sick, O Lord, around Thee lay; Oh! in what divers pains they met! Oh, with what joy they went away!"
+            },
+            {
+                "no":2,
+                "content":"One more, its eventide, and we, Oppress’d with various ills draw near What if Thy form we cannot see We know and feel that Thou art here."
+            },
+            {
+                "no":3,
+                "content":"O Saviour Christ, our woes dispel: For some are sick, and some are sad And some have never loved Thee well And some have lost the love they had."
+            },
+            {
+                "no":4,
+                "content":"And some have found the world in vain Yet from the world they break not free And some have friends who give them pain Yet have not sought a friend in Thee."
+            },
+            {
+                "no":5,
+                "content":"And none, O lord, have perfect rest For none are wholly free from sin And they who fain would serve Thee best Are conscious most of wrong within."
+            },
+            {
+                "no":6,
+                "content":"O Saviour Christ, Thou too art Man; Thou has been troubled, tempted, tried, Thy kind but searching glance can scan The very wounds that shame would hide.Thy touch has still its ancient power No word from Thee can fruitless fall Hear in this solemn evening hour And in Thy Mercy heal us all."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "no": 10,
+        "category": "evening-devotion",
+        "title": "",
+        "scripture": "“I will arise and go to my Father.” - Luke 15:18",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "mp Father, again in Jesus name we meet And bow in penitence beneath thy feet Again to Thee our feeble voices raise To sue for mercy and to sing Thy praise."
+            },
+            {
+                "no":2,
+                "content":"f Oh we would bless Thee for Thy ceaseless care, And all Thy work from day to day declare; Is not our life with hourly mercies crown’d? Does not Thine arm encircles us around?"
+            },
+            {
+                "no":3,
+                "content":"p Alas! unworthy of Thy boundless love, Too, oft with careless feet from Thee we move, mf But now, encouraged by Thy voice we come Returning sinners to our Father’s home."
+            },
+            {
+                "no":4,
+                "content":"mp Oh by that name in whom all fullness dwells, Oh by that love which every love excels Oh by that blood, so freely shed for sin cr Open blest mercy’s gate, and take us in."
+            }
+
+        ]
+    },
+    {
+        "id": 21,
+        "no": 11,
+        "category": "evening-devotion",
+        "title": "",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Father,breathe an evening blessing Ere repose our spirit seal, Sin and want we come confessing: Thou canst save, and Thou canst heal. The night is dark and I am far from home Lead thou me on Keep thou my feet, I do not ask to see The distant scene, one step enough for me."
+            },
+            {
+                "no":2,
+                "content":"I was not ever thus, nor pray’d that Thou Shouldn’t lead me on I love to choose and see my path but now Lead thou me on I love the Parish day, and spite of fears, Pride ruled my will, remember not past years."
+            },
+            {
+                "no":3,
+                "content":"So long Thy power hath blest me sure it still Will lead me on O’er moor and fen, o’er crag and torrent, still The night is gone. And with the morn those angels’ faces smile Which I have loved long since and lost a while."
+            },
+            {
+                "no":4,
+                "content":"And until then, as on this pilgrimage That Thou has trod Lead Thou me on, Jesus blessed Saviour To Father’s home."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "no": 12,
+        "category": "evening-devotion",
+        "title": "C.M.S 22H.C 6. 8s (FE 29)",
+        "scripture": "“for the Lord shall be thine everlasting light” - Isa 60:20",
+        "hasChorus": true,
+        "chorus": "Through life’s long day and death’s dark night O gentle Jesus, be our light.",
+        "verses": [
+            {
+                "no": 1,
+                "content": "O Saviour, bless us ere we go Thy word into our minds instill And make our lukewarm hearts to glow With lowly love and fervent will"
+            },
+            {
+                "no":2,
+                "content":"The day is gone, its hours have run And Thou hast taken count of all The scanty triumphs grace hath won The broken vow, the frequent fall."
+            },
+            {
+                "no":3,
+                "content":"Forgive us, Lord, yea, give us joy Sweet fear, and sober liberty And loving hearts without alloy That only long to be like Thee."
+            },
+            {
+                "no":4,
+                "content":"Labour is sweet, for Thou has toiled And care is light, for Thou hast cared Let not our works with strife be soiled Nor in unsimple ways ensnared."
+            },
+            {
+                "no":5,
+                "content":"For all we love, the poor, the sad, The sinful, unto Thee we call Oh let Thy mercy make us glad Thou art our Saviour, and our all."
+            },
+            {
+                "no":6,
+                "content":"O Saviour, bless us; night is come Thy holy Presence with us be Good angels watch about our home And we are one day nearer Thee."
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "no": 14,
+        "category": "evening-devotion",
+        "title": "C.M.S 140, t.H.C 120 D. 8s 7s (FE 31)",
+        "scripture": "“he that keepeth thee will not slumber” - Ps. 121:3",
+        "hasChorus": true,
+        "chorus": "Halleluyah, Halleluyah Their songs be all day and night Where Jesus the Saviour dwells Their songs be all day and night.",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Thy will save us Lord  today Gladly lay down spent and worn Guard us in the stillness of night Us no powers of darkness harm Jesus be our Guardian ever It’s so sweet to trust in Thee."
+            },
+            {
+                "no":2,
+                "content":"Pilgrims we are here below In the midst of foes we dwell Save and guard us from all evil On Thy wings in comfort sleep At the end of life’s distress May our souls repose in Thee"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "no": 15,
+        "category": "evening-devotion",
+        "title": "C.m.S. 20 H.C 22 10s 4s (FE 32)",
+        "scripture": "“And all the night with light of fire” - Ps. 78:14",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Lead, kindly, light amid the encircling gloom Lead thou me on"
+            },
+            {
+                "no":2,
+                "content":"mf We thank Thee that Thy Church unsleeping While earth rolls onward into light Through all the world her watch is keeping And rests not now by day or night."
+            },
+            {
+                "no":3,
+                "content":"As o’er each continent and island The dawn leads on another day The voice of pray’r is never silent Nor dies the strain of praise away."
+            },
+            {
+                "no":4,
+                "content":"The sun that bids us rest is waking Our brethren ‘neath the western sky And hour by hour fresh lips are making Thy wondrous doings heard on high."
+            },
+            {
+                "no":5,
+                "content":"cr So be it, Lord; Thy throne shall never Like earth’s proud empires, pass away f Thy kingdom stands, and grows for ever, Till all Thy creatures own Thy sway."
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "no": 16,
+        "category": "evening-devotion",
+        "title": "P.B. C.M.S 23 9s 8s (FE 33)",
+        "scripture": "“And to stand every morning to thank and praise the Lord, and likewise at evening” - I Chr. 23:30",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "mf The day Thou gavest, Lord, is ended The darkness falls at Thy behest To Thee our morning hymns ascended Thy praise shall sanctify our rest."
+            },
+            {
+                "no":2,
+                "content":"Though the night be dark and dreary Darkness cannot hide from Thee Thou art He who, never weary Watchest where Thy people be."
+            },
+            {
+                "no":3,
+                "content":"Though destruction walk around us, Though the arrows past us fly Angel guards from Thee surround us We are safe, if Thou art nigh."
+            },
+            {
+                "no":4,
+                "content":"Blessed Spirit, brooding o’er us Chase the darkness of our night Till the perfect day before us Breaks in everlasting light."
+            },
+            {
+                "no":5,
+                "content":"Father, to Thy holy keeping Humbly we ourselves resign Saviour, who hast slept our sleeping Make our slumbers pure as Thine"
+            },
+            {
+                "no":6,
+                "content":"Holy Spirit on us descend Darkness ever cast away Till Thy glorious day we’ll witness Everlasting Light so bright."
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "no": 17,
+        "category": "evening-devotion",
+        "title": "C.M.S 19 H.C 35 S.M. (FE 34)",
+        "scripture": "“for now is our salvation nearer than when we believed”- Rom. 13:11",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "One sweetly solemn thought Come to me o’er and o’er I am nearer my home to-day Than I ever have been."
+            },
+            {
+                "no":2,
+                "content":"Nearer my Father’s house Where many mansions be Nearer the great and snow-white throne Nearer the crystal sea."
+            },
+            {
+                "no":3,
+                "content":"Nearer the bond of life Where we lay our burden down Nearer shall I leaving the cross Nearer gaining the crown."
+            },
+            {
+                "no":4,
+                "content":"But the waves of that silent sea Roll dark upon my sight Which brightly on the other side Break on a shore of light"
+            },
+            {
+                "no":5,
+                "content":"Father perfect my trust Strengthen the grasp of my faith Let me feel Thee near when I stand Along on the shore of death;"
+            },
+            {
+                "no":6,
+                "content":"Feel Thee near when my feet Are slipping over the brink For it may be I’m nearer home Nearer now than I think."
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "no": 18,
+        "category": "evening-devotion",
+        "title": "C.M.S 16 H.C 21 L.M (FE 35)",
+        "scripture": "“He will lay me down in peace” - Ps 4:8",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Sun of  my soul, Thou Saviour dear, It is not night if Thou be near, Oh may no earthborn cloud arise To hide Thee from Thy servant’s eyes."
+            },
+            {
+                "no":2,
+                "content":"When the soft dews of kindly sleep My wearied eyelids gently sleep, Be my last thought, how sweet to rest For ever on my Saviour’s breast."
+            },
+            {
+                "no":3,
+                "content":"Abide with me from morn till eve, For without  Thee I cannot live Abide with me when night is nigh For without Thee I dare not die."
+            },
+            {
+                "no":4,
+                "content":"If some poor wandering child of Thine Have spurned to-day the voice divine Now, Lord, the gracious work begin Let him no more lie down in sin."
+            },
+            {
+                "no":5,
+                "content":"Watch by the sick, enrich the poor With blessings from Thy boundless store, Be every mourner’s sleep to-night, Like infant’s slumbers pure and light."
+            },
+            {
+                "no":6,
+                "content":"Come near and bless us when we wake, Ere thought the world our way we take Fill in the ocean of Thy love We lose ourselves in heaven above."
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "no": 19,
+        "category": "evening-devotion",
+        "title": "",
+        "scripture": "“Except the Lord keepeth the city the watch man waketh but in vain” - Ps 127:1",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Abide with me fast falls the even tide The darkness deepens; Lord, with me abide. When other helpers fail  and comforts flee Help of the helpless, oh, abide with me."
+            },
+            {
+                "no":2,
+                "content":"Swift to its close ebbs out life’s little day Earth’s joys grow dim its glory pass away; Change and decay in all around I see; O Thou, who changest not, abide with me."
+            },
+            {
+                "no":3,
+                "content":"Come not in terrors, as the King of Kings; But kind and good, with healing in Thy wings; Tears for all woes, a heart for every plea; Come, Friend of sinners thus abide with me."
+            },
+            {
+                "no":4,
+                "content":"I need Thy presence every passing hour; What but Thy grace can foil the tempter’s power? Who like thyself my guide and stay can be? Through cloud and sunshine, Oh, abide with me."
+            },
+            {
+                "no":5,
+                "content":"I fear no foe, with Thee at hand to bless: Ills have no weight and tears no bitterness: Where is death’s sting? Where, grave thy victory? I triumph still, if Thou abide with me."
+            },
+            {
+                "no":6,
+                "content":"Hold Thou thy cross before my closing eyes Shine through the gloom, and point me to the skies; Heaven’s morning breaks and earth’s vain shadow  flee: In life, in death, O Lord abide with me."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "no": 20,
+        "category": "sabbath",
+        "title": "E.O. 16, C.M.S 488 6. 6 7. 6.7. 6.",
+        "scripture": "",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "Holy, Holy Sabbath Thou Art our resting day We ought to make up one day The Sabbath of our God If other day is mournful Remove our tears O! Lord Thou art a joyful day to us We long to see thy face."
+            },
+            {
+                "no":2,
+                "content":"Holy, Holy Sabbath No work for us today We shall forsake all our works To follow up thy grace So lovely as thou art to us Thou most beau-tiful day All other days are toilsome A restful day thou art."
+            },
+            {
+                "no":3,
+                "content":"Holy, Holy Sabbath The tinking bell repeats Give to thy maker one day To us six days hath given Remember ye the sabbath To Church ye all must go Yourself, your friends and people Must go to house of prayer."
+            },
+            {
+                "no":4,
+                "content":"Holy, Holy Sabbath I love to see thy gate A sign of heaven I know thou art The home of Saints above O!Lord make me a Heir to Thy throne at end of life To worship Thee forever With all Thy Saints above."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "no": 21,
+        "category": "sabbath",
+        "title": "C.M.S 25 H.C 218 t (FE 38) H.C 96 D. 7s 6s",
+        "scripture": "“Lord’s day”- Rev. 1:10s",
+        "hasChorus": false,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "O day of rest and gladness O day of joy and light O balm of care and sadness Most beautiful, most bright O thee the high and lowly Before the eternal throne Sing Holy, Holy, Holy To the great Three in One."
+            },
+            {
+                "no":2,
+                "content":"On thee, at the Creation The light first had its birth On thee, for our salvation Christ rose from depths of earth On thee our Lord victorious The Spirit sent from heaven And thus on thee most glorious A triple light was given."
+            },
+            {
+                "no":3,
+                "content":"Thou art a holy ladder Where angels go and come Each Sunday finds us gladder Nearer to heaven, our home A day of sweet reflection Thou art a day of love A day of resurrection From earth, the heaven’s linked."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "no": 27,
+        "category": "sabbath",
+        "title": "",
+        "scripture": "",
+        "hasChorus": true,
+        "chorus": "",
+        "verses": [
+            {
+                "no": 1,
+                "content": "f The Lord of Sabbath let us praise In concert with the blest Who, joyful, in harmonious lays Employ an endless rest."
+            },
+            {
+                "no":2,
+                "content":"mf Thus, Lord, while we remember Thee We blest and pious grow By hymns of praise we learn to be Triumphant here below."
+            },
+            {
+                "no":3,
+                "content":"On this glad day a brighter scene Of glory was displayed By God, th’eternal Word, than when This universe was made"
+            },
+            {
+                "no":4,
+                "content":"f He rises, who mankind has bought di With grief and pain extreme ‘T was great to speak a world from nought p ‘T was greater to redeem!"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "no": ,
+        "category": "sabbath",
+        "title": "",
+        "scripture": "",
+        "hasChorus": true,
+        "chorus": "",
+        "verses": [
+            {
+                "no": ,
+                "content": ""
+            }
+        ]
+    },
+]
